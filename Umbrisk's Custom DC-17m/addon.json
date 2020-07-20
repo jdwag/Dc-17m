@@ -1,0 +1,14 @@
+{
+	"title" :	"jdawgs dc17m rework",
+	"type"  :	"weapon",
+	"tags"  :	[],
+	"ignore":
+	[
+		"*.cmd",
+		"*.ini",
+		"*.lnk",
+		"*.url",
+		"Jdawg's dc-17m rework.jpg",
+		"Jdawg's dc-17m rework.png"
+	]
+}

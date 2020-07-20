@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/rcremastered/weapons/rifle/dc17_Base"
+	"$halflambert" "1"
+	"$selfillum" 1
+	"$nocull" 1
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	".2"
+	"$phongfresnelranges"	"[0.25 0.5 1]"
+
+	"$detailscale" 10.300
+	"$detailblendfactor" .65
+	"$detailblendmode" 0
+}

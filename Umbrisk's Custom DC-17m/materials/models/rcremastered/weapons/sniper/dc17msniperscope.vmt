@@ -1,0 +1,9 @@
+"Unlittwotexture"
+{
+	"$baseTexture" "models/rcremastered/weapons/sniper\DC17mSniperScope"
+	"$texture2" "models/rcremastered/weapons/sniper\noise"
+	"$additive" 1
+	"$nocull" 1
+    "$translucent" 0.35 
+	"$model" 1
+}
